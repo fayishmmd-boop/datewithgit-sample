@@ -1,3 +1,8 @@
 hi
 hello
 first commit
+hi
+myr
+hello file
+merge
+hai
